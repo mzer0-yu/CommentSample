@@ -1,0 +1,192 @@
+C++ Comment Rules
+
+1. Titles
+
+1.1 Form A: Number <= 2
+
+--------- Title 1 ---------
+// Your Text Here
+// Your Text Here
+// Your Text Here
+--------- Title 2 ---------
+/*
+    Your Text Here
+    Your Text Here
+    Your Text Here
+*/
+
+1.2 Form B: Number > 2
+
+--------- Title 1 ---------
+// Your Text Here
+// Your Text Here
+// Your Text Here
+--------- Title 2 ---------
+//
+    // Your Text Here
+    // Your Text Here
+    // Your Text Here
+//
+--------- Title 3 ---------
+//
+    //
+        // Your Text Here
+        // Your Text Here
+        // Your Text Here
+//
+--------- Title 4 ---------
+//
+    //
+        //
+            // Your Text Here
+            // Your Text Here
+            // Your Text Here
+//
+--------- Title 5 ---------
+//
+    //
+        //
+            //
+                // Your Text Here
+                // Your Text Here
+                // Your Text Here
+//
+
+
+2. Explaination
+
+2.1 Form A
+
+//* Your Text Here
+//* Your Text Here
+//* Your Text Here
+
+2.2 Form B
+
+/*
+ * Your Text Here
+ * Your Text Here
+ * Your Text Here
+*/
+
+3. Warning
+
+3.1 Form A
+
+//! Your Text Here
+//! Your Text Here
+//! Your Text Here
+
+3.2 Form B
+
+/*!
+  ! Your Text Here
+  ! Your Text Here
+  ! Your Text Here
+*/  
+
+4. Block
+
+4.1 Form A: Parallel Blocks
+
+/*---------------------------*/
+/*      Block Name Here      */
+/*---------------------------*/
+
+       // Your Code Here
+
+/*---------End Block---------*/
+
+/*---------------------------*/
+/*      Block Name Here      */
+/*---------------------------*/
+
+       // Your Code Here
+
+/*---------End Block---------*/
+
+4.2 Form B: Subblocks
+
+/*------------------------------------------
+        Block Name Here                   */
+/*------------------------------------
+        Subblock 1.1                */
+
+      // Your Code Here
+
+/*------------------------------------
+        Subblock 1.2                */
+/*------------------------------
+        Subblock 1.2.1        */
+
+      // Your Code Here
+
+/*------------------------------
+        Subblock 1.2.2        */
+/*-----------------------------
+        Subblock 1.2.2.1     */
+/*-------------------------
+        Subblock 1.2.2.1 */
+
+      // Your Code Here
+
+5. Thread
+
+5.1 Form A: Up to Down(Subthread)
+
+/*--------------------------------*/
+
+    // Your Code Here
+    
+    /*----------------------------*/
+    
+        // Your Code Here
+
+        /*------------------------*/
+
+            // Your Code Here
+
+    /*----------------------------*/
+
+        // Your Code Here
+
+        /*------------------------*/
+
+            // Your Code Here
+
+            /*--------------------*/
+
+                // Your Code Here
+
+5.2 Form B: Left To Right(Tree)
+
+            //
+            //
+                // Your Code Here
+            //
+        //
+        //
+            // Your Code Here
+        //
+
+    //
+    //
+        // Your Code Here
+    //
+//
+// Your Code Here
+//
+    
+    //
+    //
+        // Your Code Here
+    //
+        //
+        //
+            // Your Code Here
+        //
+
+            //
+            //
+                // Your Code Here
+            //
