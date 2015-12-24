@@ -53,7 +53,7 @@ C++ Comment Rules
 //
 
 
-2. Explaination
+2. Explanation
 
 2.1 Form A
 
