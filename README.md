@@ -1,12 +1,12 @@
-# C++
-## Titles
-Title 1
+#C++
+### Titles
+*Title 1*
 ```cpp
 // Your Text Here
 // Your Text Here
 // Your Text Here
 ```
-Title 2
+*Title 2*
 ```cpp
 //
   // Your Text Here
@@ -14,7 +14,7 @@ Title 2
   // Your Text Here
 //
 ```
-Title 3
+*Title 3*
 ```cpp
 //
   //
@@ -23,7 +23,7 @@ Title 3
     // Your Text Here
 //
 ```
-Title 4
+*Title 4*
 ```cpp
 //
   //
@@ -33,7 +33,7 @@ Title 4
       // Text Here
 //
 ```
-## Block
+### Block
 ```cpp
 /*---------------------------------------
               Your Text Here
@@ -41,21 +41,21 @@ Title 4
 
 /*--------------End Block--------------*/
 ```
-## Warnings
+### Warnings
 ```cpp
 //! WARNINGS
 //! Your Text Here
 //! Your Text Here
 //! Your Text Here
 ```
-## Explanation
+### Explanation
 ```cpp
 //* EXPLAIN
 //* Your Text Here
 //* Your Text Here
 //* Your Text Here
 ```
-## Reference
+### Reference
 ```cpp
 //@ [number/letter] http(s)://......
 
@@ -65,7 +65,7 @@ Title 4
 //@ [1] https://github.com/mzer0-yu/CommentSample
 //@ [2] https://github.com/mzer0-yu
 ```
-## License
+### License
 ```cpp
 /* LICENSE
     Your Text Here
