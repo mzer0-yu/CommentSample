@@ -1,4 +1,7 @@
-#C/C++(Must enable C++ style comment)
+#C/C++
+* Must enable C++ style comment
+* will support for Doxygen in the furture
+***
 ### Titles
 *Title 1*
 ```cpp
