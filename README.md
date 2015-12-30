@@ -73,3 +73,36 @@
     Your Text Here
 LICENSE */
 ```
+### Declaration
+```cpp
+/*
+  result name(par1, par2, ...)
+  
+  Decl(Declared) in ???.h ???.h ...
+  Invl(Involved) in ???.cpp ???.cpp ...
+  Writen by ??? ??? , Month Day/Year
+  See [?] for more info
+  ----------------------------
+  @ result: Your Text Here
+  @ par1: Your Text Here
+  @ par2: Your Text Here
+  
+  ! WARNINGS
+  ! Your Text Here
+  ! Your Text Here
+  
+  * EXPLAIN
+  * Your Text Here
+  * Your Text Here
+  * Your Text Here
+*/
+```
+### Definition
+```cpp
+/*
+  result name(par1, par2, ...)
+  ----------------------------
+  Decl(Declared) in ???.h
+  Dpnd(Depend) on ???.h
+*/
+```
