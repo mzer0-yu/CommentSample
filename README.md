@@ -64,3 +64,12 @@
 //* see [2] to know about the author.
 //@ [1] https://github.com/mzer0-yu/CommentSample
 //@ [2] https://github.com/mzer0-yu
+```
+## License
+```cpp
+/* LICENSE
+    Your Text Here
+    Your Text Here
+    Your Text Here
+LICENSE */
+```
