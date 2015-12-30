@@ -1,4 +1,4 @@
-#C++
+#C/C++(Must enable C++ style comment)
 ### Titles
 *Title 1*
 ```cpp
