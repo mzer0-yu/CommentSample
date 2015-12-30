@@ -1,12 +1,12 @@
 # C++
 ## Titles
-### Title 1
+Title 1
 ```cpp
 // Your Text Here
 // Your Text Here
 // Your Text Here
 ```
-### Title 2
+Title 2
 ```cpp
 //
   // Your Text Here
@@ -14,7 +14,7 @@
   // Your Text Here
 //
 ```
-### Title 3
+Title 3
 ```cpp
 //
   //
@@ -23,7 +23,7 @@
     // Your Text Here
 //
 ```
-### Title 4
+Title 4
 ```cpp
 //
   //
@@ -33,7 +33,7 @@
       // Text Here
 //
 ```
-## Blocks
+## Block
 ```cpp
 /*---------------------------------------
               Your Text Here
